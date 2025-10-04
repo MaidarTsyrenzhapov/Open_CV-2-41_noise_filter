@@ -16,10 +16,7 @@
 
 ## 🚀 Запуск
 Убедитесь, что у вас установлены зависимости:
-
-```bash
-pip install opencv-python numpy matplotlib
-```
+- pip install opencv-python numpy matplotlib
 
 ## 📊 Пример работы
 
